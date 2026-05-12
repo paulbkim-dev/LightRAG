@@ -87,3 +87,8 @@ CLAUDE.md
 
 # Google Jules
 .jules/
+
+# Local-only: personal notes, editor cache, and nested unrelated repos
+.crossnote/
+notes/
+homelab/
